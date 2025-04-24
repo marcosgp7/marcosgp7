@@ -1,5 +1,8 @@
 ## Hi there 👋
-![Contador de Visitas](https://komarev.com/ghpvc/?username=marcosgp7&label=Visitas&color=39FF14&style=for-the-badge)
+
+![Profile Views](https://img.shields.io/badge/Views-{{count}}-#39FF14?style=social&logoColor=black&color=black&labelColor=white&link=https://github.com/marcosgp7&cacheSeconds=604800)
+
+
 <!--
 **marcosgp7/marcosgp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
