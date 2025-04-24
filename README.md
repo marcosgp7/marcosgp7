@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://img.shields.io/badge/Views-{{count}}-#39FF14?style=social&logoColor=black&color=black&labelColor=white&link=https://github.com/marcosgp7&cacheSeconds=604800)
+![Profile Views](https://hits.dwyl/github/marcosgp7.svg?label=Views&message=Perfil&color=%2339FF14&style=social)
 
 
 <!--
