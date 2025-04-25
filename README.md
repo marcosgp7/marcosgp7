@@ -4,20 +4,9 @@
 
 # Marcos
 
+💻 # Marcos
+
 > Passionate about the intersection of Graphic Design and the Tech Industry.
-
-A curious developer exploring creative solutions.
-
-**Skills:**
-
-- React
-- Java
-- Spring Boot
-- CSS
-- HTML
-- MySQL
-- PostgreSQL
-- Maven
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcosglezdesgn)
 
