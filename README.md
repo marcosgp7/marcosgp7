@@ -1,5 +1,4 @@
 # Hi there!
-![image](https://github.com/user-attachments/assets/fa47a402-acce-4347-8cf0-edae962345a8)
 
 ![Visitor Count](https://profile-counter.glitch.me/marcosgp7/count.svg)
 
