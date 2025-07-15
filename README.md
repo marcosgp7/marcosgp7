@@ -1,6 +1,6 @@
 # Hi there!
 
-![Visitor Count](https://profile-counter.glitch.me/marcosgp7/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/marcosgp7/count.svg)-->
 
 💻 A curious dev exploring creative solutions.
 
